@@ -2,7 +2,6 @@
 -  I’m interested in Software Develpoment
 -  I’m currently pursuing Bachelor of Technology in Computer Science and Engineering
 -  I’m looking to learn and enhance my technical skills. 
--  How to reach me 
 -  Pronouns: She/Her
 
 
