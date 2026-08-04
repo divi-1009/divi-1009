@@ -50,7 +50,7 @@ IoT-based attendance system using facial recognition to automate attendance trac
 
 ## 📫 Connect with Me
 
-* 💼 LinkedIn: https://linkedin.com/in/divyanshi-sen
+- 💼 LinkedIn: [Divyanshi Sen](https://www.linkedin.com/in/divyanshi-sen-227114294/)
 * 📧 Email: [sen2005divya@gmail.com](mailto:sen2005divya@gmail.com)
 
 ---
