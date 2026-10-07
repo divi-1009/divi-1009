@@ -1,58 +1,140 @@
-# Hi there 👋, I'm Divyanshi Sen
+# 👩🏻‍💻 Divyanshi Sen
 
-💻 **Full Stack Developer | Software Development Engineer**
-🚀 Passionate about building scalable web applications and solving real-world problems through technology.
+### 🚀 Full-Stack Developer | 🤖 AI & ML Enthusiast | 💡 Tech Explorer
 
-## 👩‍💻 About Me
-
-* 🎓 Pursuing **B.Tech in Computer Science & Engineering** (2023–2027).
-* 🌱 Currently exploring **System Design, Scalable Backend Development, AI Integration, and Cloud Technologies**.
-* 💡 Interested in **Full Stack Development, Backend Engineering, Software Architecture, and Open Source**.
-* 🤝 Enjoy collaborating on innovative software projects and learning new technologies.
-
-## 🛠️ Tech Stack
-
-**Languages:**
-JavaScript • Python • Java • C++ • C • HTML • CSS
-
-**Frontend:**
-React.js • JavaScript • HTML5 • CSS3
-
-**Backend:**
-Node.js • Express.js • REST APIs
-
-**Database:**
-MongoDB • SQL
-
-**Tools & Technologies:**
-Git • GitHub • Linux • Postman • VS Code
-
-## 🚀 Featured Projects
-
-### 🏪 Hyperlocal Market Platform
-
-A scalable marketplace connecting local vendors with nearby customers using the MERN Stack.
-
-### 👨‍💼 Enterprise HRMS
-
-Developing scalable modules, REST APIs, authentication, and backend services for an enterprise Human Resource Management System.
-
-### 📸 Face Recognition Attendance System
-
-IoT-based attendance system using facial recognition to automate attendance tracking.
-
-## 🏆 Achievements
-
-* 🥈 First Runner-Up – Shankara Global Hackathon
-* 🏅 Top 20% – Elgol University Technology Fellowship (ATF Stage-1)
-* 🤖 Google AI Essentials Certified (96%)
-* 📚 Multiple certifications in AI, Python, Data Science & Conversational AI
-
-## 📫 Connect with Me
-
-- 💼 LinkedIn: [Divyanshi Sen](https://www.linkedin.com/in/divyanshi-sen-227114294/)
-* 📧 Email: [sen2005divya@gmail.com](mailto:sen2005divya@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Deep+Learning+Explorer;Building+Ideas+Into+Applications" />
+</p>
 
 ---
 
-⭐ *"Building scalable software, learning continuously, and turning ideas into impactful products."*
+## 👩🏻‍💻 About Me
+
+I'm **Divyanshi Sen**, a **Full-Stack Developer and AI & ML enthusiast** who enjoys building practical, user-focused applications.
+
+I work across **AI/ML, Deep Learning, Data Analytics, and Full-Stack Web Development**, combining intelligent models with modern web technologies to create useful applications.
+
+I enjoy learning by building, experimenting with new technologies, and continuously improving my **coding, problem-solving, and development skills.** 🚀
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+# 🛠️ Technical Skills
+
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+</p>
+
+### 📊 Data & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🌐 Full-Stack & Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🚀 Always Learning. Always Building.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
