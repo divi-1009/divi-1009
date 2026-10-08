@@ -92,49 +92,10 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 
 ---
 
-# 📊 GitHub Analytics
+## 🟢 Contributions Overview
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lalitmohan6376&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lalitmohan6376&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lalitmohan6376&theme=default)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🚀 Always Learning. Always Building.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-</p>
+![Followers](https://img.shields.io/github/followers/Lalitmohan6376?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Lalitmohan6376?affiliations=OWNER&style=for-the-badge)
