@@ -91,11 +91,14 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 </p>
 
 ---
-
 ## 🟢 Contributions Overview
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lalitmohan6376&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lalitmohan6376&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lalitmohan6376&theme=default)
 
-![Followers](https://img.shields.io/github/followers/Lalitmohan6376?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Lalitmohan6376?affiliations=OWNER&style=for-the-badge)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divi-1009\&theme=default)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divi-1009\&theme=default)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divi-1009\&theme=default)
+
+![Followers](https://img.shields.io/github/followers/divi-1009?style=for-the-badge)
+
+![Stars](https://img.shields.io/github/stars/divi-1009?affiliations=OWNER\&style=for-the-badge)
