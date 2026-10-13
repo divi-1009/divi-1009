@@ -96,6 +96,17 @@ fun_fact: Turning complex data & ideas into clean, functional code 🚀
 </p>
 
 ---
+## 🟢 Contributions Overview
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divi-1009\&theme=default)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divi-1009\&theme=default)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divi-1009\&theme=default)
+
+![Followers](https://img.shields.io/github/followers/divi-1009?style=for-the-badge)
+
+![Stars](https://img.shields.io/github/stars/divi-1009?affiliations=OWNER\&style=for-the-badge)
 
 ### 🐍 Contribution Activity
 
